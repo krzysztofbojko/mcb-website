@@ -12,13 +12,13 @@ export default function Home() {
           backgroundImage: "url('/images/tlo-glowna.jpg')",
           backgroundSize: 'cover',
           backgroundPosition: 'center',
-          opacity: 0.15 // Adjust opacity for "transparent" effect
+          opacity: 0.75 // Stronger visibility for the background
         }}
       />
 
       {/* Content Layer */}
       <div className="relative z-10">
-        <div className="bg-white/80 backdrop-blur-sm"> {/* Optional: slight overlay for text readability */}
+        <div className="bg-white/30 backdrop-blur-[2px]"> {/* Much more transparent overlay */}
           <Hero />
           
           {/* O nas w skrócie */}

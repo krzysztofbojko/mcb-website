@@ -1,0 +1,56 @@
+[
+  {
+    "tytul": "Multidyscyplinarne Centrum Badawcze (Projekt Główny)",
+    "opis": "Budowa nowoczesnego ośrodka badawczego skupionego na naukach cyfrowych. Projekt obejmuje stworzenie infrastruktury obliczeniowej, w tym superkomputera CATO.",
+    "finansowanie": "ok. 89,1 mln PLN (dofinansowanie ok. 55 mln PLN)",
+    "czas_realizacji": "2017 – 2024"
+  },
+  {
+    "tytul": "Wytwarzanie Przyrostowe – Druk 3D i 4D",
+    "opis": "Prace badawcze nad nowymi materiałami (stopy miedzi, tytanu i renu) oraz rozwojem technologii druku addytywnego.",
+    "finansowanie": "ok. 6 mln PLN (środki MEiN)",
+    "czas_realizacji": "od 2022 roku"
+  },
+  {
+    "tytul": "Wdrożenie koncepcji Smart Villages w województwie mazowieckim",
+    "opis": "Badania wspierające rozwój obszarów wiejskich na Mazowszu. Celem jest identyfikacja barier w rolnictwie i ich usuwanie przy użyciu nowoczesnych technologii.",
+    "finansowanie": "3,57 mln PLN",
+    "czas_realizacji": "2021 – 2023"
+  },
+  {
+    "tytul": "Sprężyście izotropowe i metastabilne stopy tytanu",
+    "opis": "Badania nad nową grupą stopów tytanu o specjalnej strukturze. Mogą one znaleźć zastosowanie w inżynierii materiałowej, np. w medycynie.",
+    "finansowanie": "848 400 PLN (Grant NCN)",
+    "czas_realizacji": "36 miesięcy (od 11.2020)"
+  },
+  {
+    "tytul": "Wpływ obróbki laserowej na wysokotemperaturowe utlenianie stopów tytanu",
+    "opis": "Projekt sprawdzający, jak za pomocą lasera i azotu zwiększyć odporność stopów tytanu na bardzo wysokie temperatury.",
+    "finansowanie": "778 736 PLN (Grant NCN Sonatina)",
+    "czas_realizacji": "2023 – 2026"
+  },
+  {
+    "tytul": "Badanie wpływu dodatku azotu na stopy Ti-Nb i Ti-Zr",
+    "opis": "Analiza biomedycznych stopów z pamięcią kształtu, które nie zawierają niklu. Badanie skupia się na roli azotu w ich strukturze.",
+    "finansowanie": "809 051 PLN (Grant NCN Sonatina)",
+    "czas_realizacji": "Grant w toku"
+  },
+  {
+    "tytul": "Budowa demonstratora Platformy Cyfrowej Nauki",
+    "opis": "Stworzenie próbnej wersji platformy do nauki zdalnej. Zawiera cyfrowe modele 3D, np. preparatów medycznych.",
+    "finansowanie": "510 000 PLN",
+    "czas_realizacji": "Styczeń – Czerwiec 2021"
+  },
+  {
+    "tytul": "SONAR",
+    "opis": "Ocena skuteczności grupowych testów na koronawirusa oraz budowa systemu informatycznego do analizy tych wyników.",
+    "finansowanie": "290 000 PLN",
+    "czas_realizacji": "Współpraca z Instytutem Nenckiego PAN"
+  },
+  {
+    "tytul": "System zarządzania siecią wodną i szlamową (KGHM)",
+    "opis": "Opracowanie narzędzia informatycznego do wykrywania awarii w sieciach przesyłowych zakładu hydrotechnicznego.",
+    "finansowanie": "Finansowane przez KGHM",
+    "czas_realizacji": "2021 – 2023"
+  }
+]
