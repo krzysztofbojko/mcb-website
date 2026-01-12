@@ -1,0 +1,91 @@
+Poniżej przedstawiam projekt struktury i funkcjonalności strony internetowej, która w nowoczesny sposób zaprezentuje potencjał MCB. Projekt ten opiera się na stabilnych i wydajnych technologiach, o których wspominałem w moim profilu (Next.js, Tailwind CSS), aby zapewnić szybkość, bezpieczeństwo i dobre pozycjonowanie (SEO).
+
+Oto szczegółowy plan budowy strony:
+1. Cel i Grupa Docelowa
+
+    Cel: Prezentacja oferty badawczo-wdrożeniowej („Science to Business”) oraz unikalnej infrastruktury.
+
+Odbiorcy: Przedsiębiorstwa przemysłowe (m.in. KGHM, PGE), administracja publiczna, naukowcy oraz studenci.
+
+2. Rekomendowany Stos Technologiczny (Tech Stack)
+
+Wybieramy technologie, które zapewnią skalowalność i profesjonalny wizerunek:
+
+    Next.js (React): Pozwala na renderowanie strony po stronie serwera (SSR), co jest kluczowe dla SEO (widoczności w Google) i szybkości ładowania przy dużej ilości treści technicznych.
+
+    Tailwind CSS: Umożliwi szybkie i spójne stylowanie oparte na systemie grid, co pozwoli estetycznie ułożyć skomplikowane opisy maszyn i usług.
+
+    Headless CMS (opcjonalnie): Do łatwego zarządzania ofertą przez pracowników MCB bez ingerencji w kod.
+
+3. Architektura Informacji (Mapa Strony)
+
+Strona powinna być podzielona na logiczne sekcje, aby użytkownik nie zagubił się w gąszczu specjalistycznych usług.
+A. Strona Główna (Homepage)
+
+To wizytówka centrum. Musi budować zaufanie i od razu kierować do odpowiednich działów.
+
+    Sekcja Hero: Duże zdjęcie (np. budynku lub wnętrza laboratorium ) z hasłem przewodnim: „Science to Business – Nowatorski ekosystem transferu technologii”.
+
+O nas w skrócie: Krótka informacja o potencjale (koszt inwestycji 90 mln zł, współpraca z gigantami jak KGHM).
+
+    Szybki wybór obszaru: Kafelki prowadzące do głównych kategorii usług (Inżynieria Materiałowa, Technologie Cyfrowe, Środowisko).
+
+B. Sekcja: Oferta i Usługi (Najważniejsza część)
+
+Ze względu na szeroki zakres działalności, proponuję pogrupować usługi w klastry tematyczne, zamiast tworzyć jedną długą listę:
+
+Klaster 1: Inżynieria Materiałowa i Wytwarzanie
+
+    Projektowanie materiałów: Modelowanie, obliczenia termodynamiczne, projektowanie stopów.
+
+Wytwarzanie stopów metali: Topienie w piecach łukowych, walcowanie, obróbka cieplna.
+
+Druk 3D (Metale, Polimery, Ceramika): Technologie PBF-LB, SLS, SLA, CJP. Produkcja prototypów i części zamiennych.
+
+Klaster 2: Analiza i Kontrola
+
+    Charakteryzacja materiałowa: Mikroskopia, tomografia komputerowa, badania wytrzymałościowe.
+
+Monitorowanie konstrukcji: Pomiary geodezyjne, czujniki, automatyzacja pomiarów.
+
+Akwizycja danych dronami: Mapowanie terenu, inspekcje infrastuktury.
+
+Klaster 3: Technologie Cyfrowe
+
+    Zasoby Obliczeniowe (HPC): Dostęp do klastra CATO (IBM AC922, GPU V100) do symulacji i Big Data.
+
+Cyfryzacja i VR: Skanowanie 3D, tworzenie środowisk wirtualnych, digitalizacja obiektów muzealnych.
+
+Informatyka śledcza: Odzyskiwanie danych, analiza dowodowa.
+
+Klaster 4: Społeczeństwo i Środowisko
+
+    Laboratorium środowiskowe: Analizy toksykologiczne, badanie żywności i alergenów.
+
+Medioznawstwo: Analiza fake news, eyetracking, badania UX.
+
+C. Sekcja: Infrastruktura (Park Maszynowy)
+
+Dla klientów biznesowych kluczowe jest to, czym dysponuje centrum. Ta podstrona powinna być katalogiem sprzętu z filtrowaniem.
+
+    Przykłady do wyróżnienia: Klaster CATO , Skanery Leica i Artec , Mikroskopy elektronowe Thermo Fisher , Drukarki 3D Aconity i 3D Systems.
+
+D. Sekcja: Kontakt
+
+Ze względu na specyfikę MCB, kontakt nie powinien być ogólny.
+
+    Formularz kontaktowy: Z listą rozwijaną tematu (np. "Zlecenie badań", "Wynajem mocy obliczeniowej").
+
+    Bezpośredni kontakt do ekspertów: Wyświetlenie wizytówek ekspertów przypisanych do danych działów (np. dr inż. Bartłomiej Wysocki dla druku 3D, dr inż. Piotr Kwaśniak dla obliczeń).
+
+4. Wytyczne UI/UX (Design)
+
+    Stylistyka: Minimalistyczna, "laboratoryjna" czystość (dużo bieli i szarości), z akcentami w kolorze nawiązującym do identyfikacji wizualnej UKSW (czerwień/bordo widoczne w broszurze ).
+
+    Typografia: Czytelne fonty bezszeryfowe, ułatwiające skanowanie technicznych parametrów.
+
+    Responsywność: Strona musi działać idealnie na urządzeniach mobilnych, aby menedżerowie mogli przeglądać ofertę w biegu.
+
+5. Kolejny krok
+
+To jest kompletny plan architektury serwisu.
